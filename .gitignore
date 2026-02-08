@@ -1,0 +1,26 @@
+# --- SYSTEM TRASH ---
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+Thumbs.db
+
+# --- VENV ---
+venv/
+env/
+.env
+
+# --- CONFIGS ---
+config.py
+
+# --- ACCOUNTANT ---
+
+*.xlsx
+*.xls
+*.csv
+
+# --- EXE ---
+dist/
+build/
+*.spec
+*.exe
